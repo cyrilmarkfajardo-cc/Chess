@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif,serif,Arial;
+    background-color: hsl(300, 66%, 86%);
+    padding: 10px;
+}
+h2,ol,footer{
+    color: rgba(3, 2, 77, 0.952);
+    font-style: normal;
+}
+header{
+    color: hsl(113, 100%, 32%);
+    justify-items: center;
+    align-items: center;
+}
+#about{
+    border-style: ridge;
+    border-color: red;
+    width: 190px;
+    text-align: center;
+}
+#me-about{
+    color: rgb(10, 104, 245);
+}
+img{
+    width: 300px;
+    
+}    
